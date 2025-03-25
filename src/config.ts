@@ -14,7 +14,7 @@ export const SITE = {
   editPost: {
     enabled: true,
     text: "Suggest Changes",
-    url: "https://github.com/satnaing/astro-paper/edit/main/",
+    url: "https://github.com/hionnode/startup-engineering-blog/edit/main/",
   },
   dynamicOgImage: true,
 } as const;

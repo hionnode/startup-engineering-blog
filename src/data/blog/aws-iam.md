@@ -8,6 +8,8 @@ featured: true
 draft: false
 tags:
   - docs
+  - aws
+  - iam
 description:
     setting up iam
 ---
@@ -15,7 +17,7 @@ description:
 
 # IAM Essentials: Securing Your AWS Environment from Day One
 
-Welcome to the second installment in our series designed to help startups navigate the world of AWS! In our [first post](aws-101), we covered the basics of setting up an AWS account. Today, we're diving into a crucial aspect of AWS security: **Identity and Access Management (IAM)**.
+Welcome to the second installment in our series designed to help startups navigate the world of AWS! In our [first post](/posts/aws-101), we covered the basics of setting up an AWS account. Today, we're diving into a crucial aspect of AWS security: **Identity and Access Management (IAM)**.
 
 Imagine IAM as the bouncer at the door of your AWS resources. It controls who gets in and what they're allowed to do once inside. Setting up IAM correctly from the start is paramount for protecting your sensitive data and preventing unauthorized access.
 
